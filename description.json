@@ -1,0 +1,23 @@
+{
+  "overview": "droid-term is a portable setup script that bootstraps a fully functional, productive development environment inside a standard Android terminal without requiring root access. It is built specifically for software developers who need to review code, run scripts, or manage git repositories directly from their mobile device.",
+  "usecases": [
+    "Quickly reviewing and hot-fixing a pull request from your phone while away from your primary workstation.",
+    "Running local command-line scripts, Node.js tools, or Python utilities during your commute.",
+    "Managing remote servers via SSH with your preferred dotfiles, shell shortcuts, and SSH keys already configured."
+  ],
+  "howto": [
+    "Download the appbundle and open your preferred Android terminal emulator.",
+    "Run the one-command environment check to verify system compatibility.",
+    "Execute the portable setup script to automatically install core developer tools and configure your shell."
+  ],
+  "faq": [
+    {
+      "q": "Do I need to root my Android device to use this?",
+      "a": "No, droid-term runs entirely within user space and requires zero root privileges or dangerous system modifications."
+    },
+    {
+      "q": "How does this differ from manually installing packages in Termux?",
+      "a": "It automates the tedious bootstrapping process, instantly configuring a cohesive, productive developer environment with a single command instead of hours of manual package management."
+    }
+  ]
+}
