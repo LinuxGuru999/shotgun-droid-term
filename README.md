@@ -3,17 +3,17 @@
 Bootstrap a productive terminal environment on Android
 
 ## Overview
-droid-term is a portable setup script that bootstraps a fully functional, productive development environment inside a standard Android terminal without requiring root access. It is built specifically for software developers who need to review code, run scripts, or manage git repositories directly from their mobile device.
+droid-term is a portable setup script and environment bootstrapper that transforms an unconfigured Android device into a genuine, productive development workspace. Built specifically for developers who need to code on the go, it provisions essential CLI tools without requiring risky root access.
 
 ## Use cases
-- Quickly reviewing and hot-fixing a pull request from your phone while away from your primary workstation.
-- Running local command-line scripts, Node.js tools, or Python utilities during your commute.
-- Managing remote servers via SSH with your preferred dotfiles, shell shortcuts, and SSH keys already configured.
+- Quickly spinning up a functional Linux-like terminal on a tablet or backup phone while traveling without a laptop.
+- Running git operations, editing configuration files, and testing scripts directly from an Android device during an emergency bug fix.
+- Standardizing a secondary mobile development environment across multiple devices using a single automated script.
 
 ## How to use
-1. Download the appbundle and open your preferred Android terminal emulator.
-2. Run the one-command environment check to verify system compatibility.
-3. Execute the portable setup script to automatically install core developer tools and configure your shell.
+1. Download the appbundle and install it alongside a standard Android terminal emulator like Termux.
+2. Run the one-command environment check to verify system dependencies and storage permissions.
+3. Execute the portable setup script to automatically pull and configure your core developer toolchain.
 
 ## What is included
 - One-command environment check
