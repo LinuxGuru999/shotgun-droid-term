@@ -1,0 +1,18 @@
+{
+  "headline": "Turn Your Android Device Into a Powerful Developer Terminal Instantly",
+  "benefits": [
+    "Verify your system setup with a single automated command",
+    "Deploy your entire portable dev environment in seconds",
+    "Enjoy full terminal productivity with zero root access needed"
+  ],
+  "faq": [
+    {
+      "q": "Do I need to root my Android device to use this?",
+      "a": "No, droid-term runs entirely in user space without requiring root access."
+    },
+    {
+      "q": "How difficult is the installation process?",
+      "a": "It takes less than a minute using our automated portable setup script."
+    }
+  ]
+}
