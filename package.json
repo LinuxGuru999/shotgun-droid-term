@@ -1,0 +1,8 @@
+{
+  "name": "droid-term",
+  "version": "1.0.0",
+  "private": true,
+  "bin": {
+    "droid-term": "bin/droid-term.js"
+  }
+}
